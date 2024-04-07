@@ -8,6 +8,5 @@ hello git!
 hello git!777
 hello git!
 hello git!
-hello git!
 hello git!888888
-hello git!
+hello git!666666
